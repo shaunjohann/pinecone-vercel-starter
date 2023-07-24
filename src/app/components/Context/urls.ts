@@ -1,18 +1,18 @@
 export const urls = [{
-  url: "https://e360.yale.edu/digest/indonesia-malaysia-deforestation",
-  title: "Indonesia Deforestation",
+  url: "https://medium.com/llamaindex-blog/build-and-scale-a-powerful-query-engine-with-llamaindex-and-ray-bfb456404bc4",
+  title: "Ray + LlamaIndex",
   seeded: false,
   loading: false,
 },
 {
-  url: "https://cleantechnica.com/2023/06/29/solar-82-of-power-capacity-growth-in-india-in-2022/",
-  title: "Solar Power in India",
+  url: "https://medium.com/llamaindex-blog/data-agents-eed797d7972f",
+  title: "Data Agents",
   seeded: false,
   loading: false,
 },
 {
-  url: "https://www.cbssports.com/nba/news/matisse-thybulle-to-stay-with-blazers-who-match-mavericks-three-year-33-million-deal-per-report/",
-  title: "Matisee Thybulle",
+  url: "https://medium.com/llamaindex-blog/enriching-llamaindex-models-from-graphql-and-graph-databases-bcaecec262d7",
+  title: "GraphQL",
   seeded: false,
   loading: false,
 }]
